@@ -1,0 +1,5 @@
+{
+  "name": "GradePredict Matcher",
+  "description": "A tool to compare actual vs. predicted student marks, visualize discrepancies, and generate AI-powered insights.",
+  "requestFramePermissions": []
+}
